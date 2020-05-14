@@ -1,0 +1,19 @@
+@charset "utf-8";
+.body{
+	padding:100px;
+	background-size: cover
+}
+
+.home{
+    color: white;
+	font-size: 22px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; 
+	margin-left: auto;
+ 	margin-right: auto;
+	padding-top: 445px;
+}
+a:link, a:visited{
+	color:white;
+	text-decoration: none;
+	cursor:grabbing;
+}
